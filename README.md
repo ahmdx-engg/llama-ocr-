@@ -1,4 +1,3 @@
-![](https://developer-blogs.nvidia.com/wp-content/uploads/2024/10/image1.jpg)
 
 # OCR to Tabular Data with Llama3.2 Vision Model
 
